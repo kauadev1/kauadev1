@@ -1,4 +1,4 @@
-Olá! Eu sou o Kauã Lima👋
+Olá! Eu sou o Kauã Lima👋<hr>
 
 - 🔭 Atualmente trabalho como Desenvolvedor Front-end 
 - 🌱 Estudando HTML|CSS
@@ -12,6 +12,7 @@ Olá! Eu sou o Kauã Lima👋
 <div style="display: inline_block"><br>
   <img align="center" alt="kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="150px" align="right" border-radius="1em" alt="Gif-Kauã" src="https://media1.tenor.com/images/d5f3dc4311eea496d7695a947c9dd30b/tenor.gif?itemid=27261865" border-radius=" height="1em">
  </div><hr>
     
 <div>
@@ -22,8 +23,8 @@ Olá! Eu sou o Kauã Lima👋
       <a href="https://t.me/kauadev1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
   </div>
   
-  <div>
-    <img alt="Gif-Kauã" src="https://cdn.discordapp.com/attachments/994661926024003694/1053901701305880586/WhatsApp_Video_2022-12-18_at_02.05.49.mp4">
-  </div>
+
+  
+
 
   
