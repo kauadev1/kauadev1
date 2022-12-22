@@ -13,9 +13,9 @@
 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="kaua-HTML" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="kaua-HTML" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="kaua-HTML" height="60" width="40" src="https://icongr.am/devicon/wordpress-plain.svg?size=60&color=ffffff">
+  <img align="center" alt="kaua-HTML" height="65" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="kaua-HTML" height="65" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="kaua-HTML" height="65" width="40" src="https://icongr.am/devicon/wordpress-plain.svg?size=60&color=ffffff">
   <img height=200px" align="right" border-radius="1em" alt="Gif-Kauã" src="https://media1.tenor.com/images/d5f3dc4311eea496d7695a947c9dd30b/tenor.gif?itemid=27261865" border-radius=" height="1em">
  </div><hr>
     
