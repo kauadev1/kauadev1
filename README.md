@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho como Desenvolvedor Front-end 
 - 🖥️ Domino As linguagens HTML | CSS
-- 🌱 Estudando WordPress
+- 🌱 Estudando PHP
 
 <div align="center">  
   <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=kauadev1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kauã Lima stats" /> 
@@ -15,7 +15,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="kaua-HTML" height="65" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kaua-HTML" height="65" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="kaua-HTML" height="65" width="40" src="https://icongr.am/devicon/wordpress-plain.svg?size=60&color=ffffff">
+   <img align="center" alt="kaua-HTML" height="65" width="40" src="">
   <img height=200px" align="right" border-radius="1em" alt="Gif-Kauã" src="https://media1.tenor.com/images/d5f3dc4311eea496d7695a947c9dd30b/tenor.gif?itemid=27261865" border-radius=" height="1em">
  </div><hr>
     
@@ -24,7 +24,8 @@
       <a href="https://www.linkedin.com/in/kauã-lima-906233252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       <a href="mailto:kaualimads15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://wa.link/3i39h8" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
-      <a href="https://t.me/kauadev1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+      <a href="https://t.me/kauadev1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+      <a href="https://discord.gg/pJxt8Am3mE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
