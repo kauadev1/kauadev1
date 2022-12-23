@@ -15,7 +15,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="kaua-HTML" height="65" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kaua-HTML" height="65" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="kaua-HTML" height="65" width="50" src="https://icongr.am/devicon/php-plain.svg?size=128&color=ffffff">
+   <img align="center" alt="kaua-HTML" height="65" width="50" src="https://icongr.am/devicon/php-plain.svg?size=128&color=F9F3DF">
   <img height=200px" align="right" border-radius="1em" alt="Gif-Kauã" src="https://media1.tenor.com/images/d5f3dc4311eea496d7695a947c9dd30b/tenor.gif?itemid=27261865" border-radius=" height="1em">
  </div><hr>
     
