@@ -7,8 +7,8 @@
 - 🌱 Estudando JavaScript | TypeScript | Wordpress
 
 <div align="center">  
-  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=kauadev1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0D1117" alt="Kauã Lima stats" /> 
-  <img width="41%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauadev1&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0D1117" />
+  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=kauadev1&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Kauã Lima stats" /> 
+  <img width="41%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauadev1&layout=compact&langs_count=7&theme=react" />
 </div>
 
   
@@ -35,7 +35,6 @@
 
  ![Snake animation](https://github.com/kauadev1/kauadev1/blob/output/github-contribution-grid-snake.svg)
  
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=kauadev1&repo=kauadev1&theme=react)](https://github.com/kauadev1/kauadev1)
   
 
 
