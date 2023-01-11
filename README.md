@@ -29,11 +29,16 @@
       <a href="https://wa.link/3i39h8" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
       <a href="https://t.me/kauadev1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
       <a href="https://discord.gg/pJxt8Am3mE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  </div>
+  </div><br>
+  
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/kauadev1/count.svg" /></p>
+  
+  
+![snake gif](https://github.com/kauadev1/kauadev1/blob/output/github-contribution-grid-snake.svg)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-![snake gif](https://github.com/kauadev1/kauadev1/blob/output/github-contribution-grid-snake.svg)
+
  
   
 
