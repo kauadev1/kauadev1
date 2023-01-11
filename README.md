@@ -32,6 +32,10 @@
   </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+ ![Snake animation](https://github.com/kauadev1/kauadev1/blob/output/github-contribution-grid-snake.svg)
+ 
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=kauadev1&repo=kauadev1&theme=react)](https://github.com/kauadev1/kauadev1)
   
 
 
