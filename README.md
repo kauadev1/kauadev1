@@ -31,11 +31,6 @@
       <a href="https://discord.gg/pJxt8Am3mE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   </div><br>
   
-  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/kauadev1/count.svg" /></p>
-  
-  
-![snake gif](https://github.com/kauadev1/kauadev1/blob/output/github-contribution-grid-snake.svg)
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
