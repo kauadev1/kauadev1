@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=276bc6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+Nome+É+Kauã+lima+Tenho+17+anos;Sou+do+Brasil,+PR;Eu+Estudo+Desenvolvimento+de+Software;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=276bc6&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+Nome+É+Kauã+lima+Tenho+17+anos;Sou+do+Brasil,+PR;Eu+Estudo+Desenvolvimento+de+Software;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Atualmente trabalho como Desenvolvedor Front-end.
 - 🖥️ Domino As linguagens HTML | CSS
@@ -35,7 +35,7 @@
       <a href="https://discord.gg/pJxt8Am3mE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   </div><br>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=276bc6&height=120&section=footer"/>
 
  
   
