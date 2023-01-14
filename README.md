@@ -6,10 +6,15 @@
 - 🖥️ Domino As linguagens HTML | CSS
 - 🌱 Estudando JavaScript
 
-<div align="center">  
-  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=kauadev1&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Kauã Lima stats" /> 
-  <img width="41%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauadev1&layout=compact&langs_count=7&theme=react" />
-</div>
+
+<br><div align="center">  
+<a href="https://github.com/kauadev1/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kauadev1&show_icons=true&bg_color=00000000"/>
+</a>
+<a href="https://github.com/kauadev1/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauadev1&layout=compact"/>
+</a>
+</div><br>
 
   
 <div style="display: inline_block"><br>
@@ -31,7 +36,6 @@
   </div><br>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
 
  
   
