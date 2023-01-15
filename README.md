@@ -20,7 +20,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="kaua-HTML" height="65" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kaua-CSS" height="65" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="kaua-JAVA" height="65" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="kaua-JavaScript" height="65" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="kaua-FIGMA" height="65" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="kaua-Wordpress" height="65" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img height=200px" align="right" border-radius="1em" alt="Gif-Kauã" src="https://media1.tenor.com/images/d5f3dc4311eea496d7695a947c9dd30b/tenor.gif?itemid=27261865" border-radius=" height="1em">
