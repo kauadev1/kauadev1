@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho como Desenvolvedor Front-end, futuro desenvolvedor Full-Stack.
 - 🖥️ Domino As linguagens HTML | CSS
-- 🌱 Estudando JavaScript 
+- 🌱 Estudando JavaScript | TypesCript
 
 
 <br><div align="center">  
