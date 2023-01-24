@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=276bc6&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+Nome+É+Kauã+lima+Tenho+17+anos;Sou+do+Brasil,+PR;Eu+Estudo+Desenvolvimento+de+Software;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-- 🔭 Atualmente trabalho como Desenvolvedor Front-end.
+- 🔭 Atualmente trabalho como Desenvolvedor Front-end, futuro desenvolvedor Full-Stack.
 - 🖥️ Domino As linguagens HTML | CSS
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript 
 
 
 <br><div align="center">  
