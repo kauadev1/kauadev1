@@ -4,7 +4,8 @@
 
 - 🔭 Atualmente trabalho como Desenvolvedor Front-end
 - 🖥️ Domino As linguagens HTML | CSS
-- 🌱 Estudando PYTHON
+- 🌱 Estudando Python
+- 📚 Cursando 1º Ano de Engenharia de Software - IFPR
 
 
 <br><div align="center">  
@@ -20,7 +21,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="65" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="65" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="65" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Python" height="65" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Figma" height="65" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Wordpress" height="65" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img height=200px" align="right" border-radius="1em" alt="Gif-Kauã" src="https://media1.tenor.com/images/d5f3dc4311eea496d7695a947c9dd30b/tenor.gif?itemid=27261865" border-radius=" height="1em">
