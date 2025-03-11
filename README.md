@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=276bc6&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+Nome+É+Kauã+lima+Tenho+17+anos;Sou+do+Brasil,+PR;Eu+Estudo+Desenvolvimento+de+Software;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Amante da indústria audiovisual
-- 🖥️ Domino As linguagens HTML | CSS
-- 🌱 Estudando Python
-- 📚 Cursando 1º Ano de Engenharia de Software - IFPR
+- 🖥️ Domino As linguagens HTML | CSS | PYTHON
+- 🌱 Estudando Java
+- 📚 Cursando 2º Ano de Engenharia de Software - IFPR
 
 
 <br><div align="center">  
